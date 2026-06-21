@@ -1,4 +1,4 @@
-# Early Retention Loop in Homescapes and Royal Match -- Comparative Analysis
+# Early Retention Loop in Homescapes and Royal Match
 
 ## 1. Цель анализа
 
